@@ -1,4 +1,0 @@
-# graphics.github.io
-
-
-hi
